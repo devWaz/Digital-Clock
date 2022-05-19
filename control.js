@@ -1,3 +1,9 @@
+document.body.style.backgroundColor = "black"
+document.body.style.color = "white"
+
+
+
+
 function showTime(){
     var currentTime = new Date();
     var h = currentTime.getHours();
